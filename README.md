@@ -35,3 +35,17 @@
 </a>
 
 </p>
+
+## 👥 Project Members
+
+<p>
+
+<a href="https://github.com/your-username">
+  <img src="https://img.shields.io/badge/🧑‍💻_Siddhartha_Siddhi_Bajracharya-GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/your-username">
+  <img src="https://img.shields.io/badge/👩‍💻_Aayusha_Neupane-GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
