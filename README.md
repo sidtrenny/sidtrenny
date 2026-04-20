@@ -13,3 +13,8 @@
 [![](https://visitcount.itsvg.in/api?id=sidtrenny&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+1) all in one student hub.
+2) Personal life management
+3) mini social feed
+4) online voting system
