@@ -14,7 +14,24 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-1) all in one student hub.
-2) Personal life management
-3) mini social feed
-4) online voting system
+# 🚀 Projects
+
+<p align="center">
+
+<a href="#">
+  <img src="https://img.shields.io/badge/🎓_Student_Hub-Academic_System-1f2937?style=for-the-badge&logo=book&logoColor=white">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/🧠_Life_Manager-Productivity_App-1f2937?style=for-the-badge&logo=checklist&logoColor=white">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/💬_Social_Feed-Post_System-1f2937?style=for-the-badge&logo=chat&logoColor=white">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/🗳️_Voting_System-Poll_App-1f2937?style=for-the-badge&logo=vote&logoColor=white">
+</a>
+
+</p>
