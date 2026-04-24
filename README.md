@@ -27,10 +27,6 @@
 </a>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/💬_Social_Feed-Post_System-1f2937?style=for-the-badge&logo=chat&logoColor=white">
-</a>
-
-<a href="#">
   <img src="https://img.shields.io/badge/🗳️_Voting_System-Poll_App-1f2937?style=for-the-badge&logo=vote&logoColor=white">
 </a>
 
